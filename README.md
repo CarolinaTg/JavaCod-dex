@@ -1,2 +1,2 @@
-# JavaCod-dex
+# JavaCodedex
 Java Exercises
